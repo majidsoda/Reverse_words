@@ -22,3 +22,4 @@
   }
 
   // Time Complexity: O(n/2) but we can say just O(n)
+// Majid sodavi added a line
